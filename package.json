@@ -34,7 +34,7 @@
     "react-router-redux": "^4.0.5",
     "react-slick": "^0.14.5",
     "react-timeago": "^3.0.0",
-    "react-tinymce": "^0.5.1",
+    "react-tinymce": "^0.6.0",
     "react-waypoint": "^5.0.0",
     "react-widgets": "^3.4.3",
     "react-youtube": "^7.0.0",
