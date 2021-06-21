@@ -40,7 +40,7 @@
     "react-youtube": "^7.0.0",
     "redux": "^3.5.2",
     "redux-thunk": "^2.1.0",
-    "striptags": "^2.2.1"
+    "striptags": "^3.2.0"
   },
   "devDependencies": {
     "babel-core": "^6.1.21",
